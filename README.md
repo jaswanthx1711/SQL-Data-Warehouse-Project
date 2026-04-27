@@ -118,7 +118,7 @@ This project is licensed under the [MIT License](LICENSE). You are free to use, 
 
 ## 🌟 About Me
 
-Hi there! I'm **Jaswanth Thathireddy**, I’m an IT professional and passionate Learner on a mission to share knowledge and make working with data enjoyable and engaging!
+Hi there! I'm **Jaswanth Thathireddy**, I’m an Masters Student,IT professional and passionate Learner on a mission to share knowledge and make working with data enjoyable and engaging!
 
 Let's stay in touch! Feel free to connect with me on the following platforms:
 
